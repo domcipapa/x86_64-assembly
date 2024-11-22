@@ -1,2 +1,2 @@
-# lowfliction
-"low affliction" caused by the assembly language ;3
+# x86_64-assembly
+just trying out low level things..
